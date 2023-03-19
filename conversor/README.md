@@ -1,5 +1,7 @@
 <h1>CHALLENGE ALURA: CONVERSOR DE MONEDAS</h1>
 
+![Uploading conversor.GIF…]()
+
 <h2>DESCRIPCIÓN DEL PROYECTO</h2>
 
 En este primer desafío del Challenge Java, se nos solicitó crear un conversor de divisas utilizando el lenguaje Java. Las características solicitadas fueron las siguientes:
